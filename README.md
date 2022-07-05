@@ -1,1 +1,1 @@
-# Machine-Leraning-Self-Learning
+# Machine-Learning-Self-Learning
